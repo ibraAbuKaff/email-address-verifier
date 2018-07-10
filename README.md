@@ -8,4 +8,4 @@ Bash script (Email address verifier) -  It outputs some flags that make you sure
 
 4- you will get Results like the following (incase of valid and operitional email address): 
 
-!(image)[https://imgur.com/a/jOrZ0HJ]
+<img src="https://imgur.com/a/jOrZ0HJ"/>
